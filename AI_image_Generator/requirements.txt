@@ -1,3 +1,0 @@
-fastapi
-uvicorn
-# Add your AI libraries below (e.g., diffusers, torch, transformers, etc.)
